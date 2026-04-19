@@ -5,7 +5,7 @@ I'm a 3rd-year Computer Engineering student at Cebu Institute of Technology - Un
 My path is a bit unconventional: I'm building scalable software today to prepare for law school tomorrow. The skills aren't as different as they seem—architecting a complex database and structuring a legal argument both require rigorous logic, keen attention to detail, and the ability to look at a problem from every conceivable angle.
 
 * **On the technical side:** I build robust backend foundations (Node.js, Python, Java, C#) backed by Supabase, while also developing seamless mobile experiences using React Native and integrating machine learning models for intelligent applications.
-* **On the human side:** I naturally step into project management roles. I focus on eliminating communication bottlenecks, defining actionable development goals, and ensuring every team member's ideas make it from the whiteboard to production.
+* **On the human side:** I naturally step into project management roles. I focus on eliminating communication bottlenecks, defining actionable development goals, and ensuring every team member's ideas make it from the imagination to production.
 
 I am currently seeking opportunities to leverage my full-stack capabilities and leadership skills to build impactful products. Let's build something great together.
 
