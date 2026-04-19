@@ -36,7 +36,7 @@ I am currently seeking opportunities to leverage my full-stack capabilities and 
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
-| **[TaraCSE](https://github.com/jsnaur/taracse)** | A personal, AI-integrated platform designed specifically to help reviewers prepare for the Civil Service Exam through interactive study tools. | Next.js, Supabase, Tailwind CSS, TypeScript |
+| **[TaraCSE](https://github.com/jsnaur/taracse)** | My personal project. An AI-integrated platform designed specifically to help reviewers prepare for the Civil Service Exam through interactive study tools. | Next.js, Supabase, Tailwind CSS, TypeScript |
 | **[GesturiX](https://github.com/jsnaur/GesturiX)** | A machine learning-powered mobile application designed for real-time ASL gesture and digit recognition to bridge communication gaps. | React Native, Python, PyTorch, Expo |
 | **[CampuSee](https://github.com/jsnaur/CampuSee)** | A campus-focused social networking mobile app featuring real-time messaging, post sharing, and interactive feeds for students. | React Native, Supabase, TypeScript |
 | **[MediBridge](https://github.com/jsnaur/MediBridge-Telemedicine-Platform)** | A comprehensive full-stack telemedicine platform supporting online consultations, room management, and an integrated AI chatbot. | React, Vite, Node.js, AI Integration |
