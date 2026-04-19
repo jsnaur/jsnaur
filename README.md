@@ -1,11 +1,11 @@
 # About Me
-I build scalable software today to fund my journey to law school tomorrow. I am a 3rd-year Computer Engineering student at Cebu Institute of Technology - University, specializing in Backend Architecture, Database Management, and Project Leadership. While my ultimate endgame is the legal field, my passion right now is engineering robust digital solutions. The skills required for both aren't as different as they seem—whether I'm architecting a complex database or building a legal argument, I rely on extreme patience, keen attention to detail, and the ability to look at a problem from every conceivable angle to find the optimal solution.
 
-**What I Do (The Technical):**
-I thrive in the backend. I build scalable foundations using Node.js, Python, FastAPI, Java, and C#, backed by Supabase. I also bridge the gap to the frontend, developing seamless mobile experiences using React Native and Expo Go, and integrating Machine Learning models to give applications a competitive, intelligent edge.
+I'm a 3rd-year Computer Engineering student at Cebu Institute of Technology - University, specializing in backend architecture and project leadership. 
 
-**How I Lead (The Human):**
-Writing code is only half the battle; shipping a product requires people. In my projects, I naturally step into the Project Manager role. I excel at bridging diverse ideas and assigning the right tasks to the right people. I firmly believe that communication bottlenecks can kill a project. When team members struggle to communicate, I don't leave them behind—I proactively keep them in the loop, clearly define actionable development goals, and act as the bridge to ensure their ideas make it to the rest of the team.
+My path is a bit unconventional: I'm building scalable software today to prepare for law school tomorrow. The skills aren't as different as they seem—architecting a complex database and structuring a legal argument both require rigorous logic, keen attention to detail, and the ability to look at a problem from every conceivable angle.
+
+* **On the technical side:** I build robust backend foundations (Node.js, Python, Java, C#) backed by Supabase, while also developing seamless mobile experiences using React Native and integrating machine learning models for intelligent applications.
+* **On the human side:** I naturally step into project management roles. I focus on eliminating communication bottlenecks, defining actionable development goals, and ensuring every team member's ideas make it from the whiteboard to production.
 
 I am currently seeking opportunities to leverage my full-stack capabilities and leadership skills to build impactful products. Let's build something great together.
 
