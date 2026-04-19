@@ -41,7 +41,8 @@ I am currently seeking opportunities to leverage my full-stack capabilities and 
 | **[CampuSee](https://github.com/jsnaur/CampuSee)** | A campus-focused social networking mobile app featuring real-time messaging, post sharing, and interactive feeds for students. | React Native, Supabase, TypeScript |
 | **[MediBridge](https://github.com/jsnaur/MediBridge-Telemedicine-Platform)** | A comprehensive full-stack telemedicine platform supporting online consultations, room management, and an integrated AI chatbot. | React, Vite, Node.js, AI Integration |
 
-## Random Dev Quote
-<div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</div>
+<br/>
+
+> *"Currently debugging software. Ultimately preparing to debug the justice system."*
+>
+> — **Jesnar Tindogan**
