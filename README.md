@@ -1,6 +1,8 @@
 # About Me
 
-I'm a 3rd-year Computer Engineering student at Cebu Institute of Technology - University, specializing in backend architecture and project leadership. 
+I'm a 3rd-year Computer Engineering student at Cebu Institute of Technology - University. As a full-stack developer, I build robust end-to-end solutions, though I specialize and particularly excel in backend architecture and project leadership. 
+
+*(Note: `jsnaur` is my new, active GitHub account as I no longer have access to my previous one. You can still view my older projects and contributions on my old account at [@jasner13](https://github.com/jasner13).)*
 
 My path is a bit unconventional: I'm building scalable software today to prepare for law school tomorrow. The skills aren't as different as they seem—architecting a complex database and structuring a legal argument both require rigorous logic, keen attention to detail, and the ability to look at a problem from every conceivable angle.
 
@@ -12,7 +14,7 @@ I am currently seeking opportunities to leverage my full-stack capabilities and 
 ## Socials
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tindoganjesnar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesnartindogan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jsnaur) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jsnaur) 
 
 ## Tech Stack
 
@@ -22,7 +24,7 @@ I am currently seeking opportunities to leverage my full-stack capabilities and 
 
 **Backend, Databases & Cloud**
 <br/>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 
 **Machine Learning & AI**
 <br/>
@@ -38,6 +40,7 @@ I am currently seeking opportunities to leverage my full-stack capabilities and 
 | :--- | :--- | :--- |
 | **[TaraCSE](https://github.com/jsnaur/taracse)** | My personal project. An AI-integrated platform designed specifically to help reviewers prepare for the Civil Service Exam through interactive study tools. | Next.js, Supabase, Tailwind CSS, TypeScript |
 | **[GesturiX](https://github.com/jsnaur/GesturiX)** | A machine learning-powered mobile application designed for real-time ASL gesture and digit recognition to bridge communication gaps. | React Native, Python, PyTorch, Expo |
+| **[LYNK](https://github.com/jsnaur/lynk)** | An exclusive AI-integrated campus questing mobile app featuring a dynamic social feed, automated quest appraisal, and profile customization. | React Native, Expo, TypeScript, Tailwind CSS, Supabase |
 | **[CampuSee](https://github.com/jsnaur/CampuSee)** | A campus-focused social networking mobile app featuring real-time messaging, post sharing, and interactive feeds for students. | React Native, Supabase, TypeScript |
 | **[MediBridge](https://github.com/jsnaur/MediBridge-Telemedicine-Platform)** | A comprehensive full-stack telemedicine platform supporting online consultations, room management, and an integrated AI chatbot. | React, Vite, Node.js, AI Integration |
 
