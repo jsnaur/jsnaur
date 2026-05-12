@@ -4,7 +4,7 @@
 
 ### Architecting scalable systems today. Preparing for the *justice* system tomorrow.
 
-3rd-year Computer Engineering @ CIT-U · Full-Stack Developer · Project Lead
+3rd-year Computer Engineering at CIT-U · Full-Stack Developer · Project Lead
 
 <br/>
 
