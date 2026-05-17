@@ -2,7 +2,7 @@
 
 # Jesnar T. Tindogan
 
-### Architecting scalable systems today. Preparing for the *justice* system tomorrow.
+### Currently debugging software. Ultimately preparing to debug the *justice system*.
 
 3rd-year Computer Engineering at CIT-U · Full-Stack Developer · Project Lead
 
