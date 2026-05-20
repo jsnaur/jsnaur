@@ -24,7 +24,7 @@
 
 I build robust backend foundations and AI-integrated products today, in preparation for law school tomorrow. Architecting a complex database and structuring a legal argument require the same discipline — rigorous logic, attention to detail, and the ability to interrogate a problem from every angle.
 
-- **Engineering** — backend systems with Node.js / Python / Java, databases on PostgreSQL + Supabase, mobile experiences in React Native, AI integration with Gemini and PyTorch.
+- **Engineering** — backend systems with Node.js / Next.js / Python / Java, databases on PostgreSQL + Supabase, mobile experiences in React Native, AI integration with Gemini and PyTorch.
 - **Leadership** — I naturally step into project management. I eliminate communication bottlenecks, define actionable goals, and ensure every team member's idea makes it from imagination to production.
 
 > **Currently** — shipping [**TaraCSE**](https://github.com/jsnaur/taracse) · building [**LYNK**](https://github.com/jsnaur/lynk) · open to SWE internships & AI engineering roles.
